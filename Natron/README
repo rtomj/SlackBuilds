@@ -1,0 +1,6 @@
+Natron is a cross platform open source video compositor.
+
+It supports a wide variety of file formats and open
+source OpenFX plugins.
+
+This slackbuild installs the portable binary.
