@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Icon=blender28
+Type=Application
+Categories=Graphics;3DGraphics;
+TryExec=/opt/blender28/blender28
+Exec=blender28
+Name=Blender28
+Comment=3D Content Renderer
